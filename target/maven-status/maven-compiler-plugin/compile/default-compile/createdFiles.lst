@@ -1,0 +1,17 @@
+com\cr\user\dto\req\UserLoginReq.class
+com\cr\user\support\UserConverter.class
+com\cr\user\dto\req\UserCreateReq.class
+com\cr\user\dto\resp\UserLoginResp.class
+com\cr\user\dto\resp\UserCreateResp.class
+com\cr\user\dto\req\UserUpdateReq.class
+com\cr\user\UserApplication.class
+com\cr\user\api\UserApi.class
+com\cr\user\dto\resp\UserResp.class
+com\cr\user\dto\resp\UserUpdateResp.class
+com\cr\user\controller\UserController.class
+com\cr\user\dto\req\UserQueryReq.class
+com\cr\user\service\UserService.class
+com\cr\user\dto\req\UserChangePwdReq.class
+com\cr\user\service\impl\UserServiceImpl.class
+com\cr\user\entity\User.class
+com\cr\user\mapper\UserMapper.class
